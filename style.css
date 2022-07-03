@@ -2,6 +2,11 @@ H1 {
     color: blue;
 }
 
+#sub-title {
+    color: rgb(0, 91, 228);
+    text-align: center;
+}
+
 #title {
     color: rgb(0, 26, 255);
     text-align: center;
@@ -27,9 +32,8 @@ h2 {
 }
 
 .my-blog {
+    border: 5px solid blue;
     border-radius: 10px;
 }
 
-.my-blog {
-    display: inline-block;
-}
+.my-blog {}
