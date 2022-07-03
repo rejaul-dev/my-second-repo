@@ -1,3 +1,7 @@
+body {
+    background-color: antiquewhite;
+}
+
 H1 {
     color: blue;
 }
@@ -32,7 +36,9 @@ h2 {
 }
 
 .my-blog {
-    border: 5px solid blue;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
     border-radius: 10px;
 }
 
